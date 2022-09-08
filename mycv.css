@@ -147,3 +147,7 @@ a:hover:after{
 #wordpressProgress {
     width: 85%;
 }
+
+#SQLProgress {
+    width: 80%;
+}
